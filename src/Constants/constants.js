@@ -116,23 +116,7 @@ const projects = [
       "Financial Transaction Management and Analysis app to categorize and visualize financial transactions data in OFX. Made with React + Typescript + d3. It enables users to upload, categorize, filter, and visualize financial transactions from OFX files.",
     image: financeApp,
     source_code_link: "https://github.com/ratnabhindi/finances-app",
-    demo_link: "https://github.com/ratnabhindi/finances-app",
-  },
-  {
-    name: "Fitness WebApi",
-    description:
-      "The Fitness WebAPI is a robust ASP.NET Core Web API application designed to manage and track fitness activities and workouts. This API allows users to create, read, update, and delete (CRUD) fitness exercises and workout plans. It supports authentication and authorization using JWT tokens and is configured to support API versioning and documentation via Swagger",
-    image: fitnessApp,
-    source_code_link: "https://github.com/ratnabhindi/Fitness",
-    demo_link: "https://youtu.be/CBceC2BXJyE",
-  },
-  {
-    name: "Concert Booking",
-    description:
-      "The Concert Booking System leverages Clean Architecture principles to ensure a scalable, maintainable, and testable codebase. This application is ideal for event organizers and music venues looking to streamline their booking and management processes.",
-    image: concertApp,
-    source_code_link: "https://github.com/ratnabhindi/ConcertBooking",
-    demo_link: "https://github.com/ratnabhindi/ConcertBooking",
+    demo_link: "https://ratnabhindi.github.io/finances-app/",
   },
   {
     name: "ReactJS & Tailwind",
@@ -142,6 +126,23 @@ const projects = [
     source_code_link: "https://github.com/ratnabhindi/react-tailwind-demo",
     demo_link: "https://ratnabhindi.github.io/react-tailwind-demo/",
   },
+  {
+    name: "Fitness WebApi",
+    description:
+      "The Fitness WebAPI is a robust ASP.NET Core Web API application designed to manage and track fitness activities and workouts. This API allows users to create, read, update, and delete (CRUD) fitness exercises and workout plans. It supports authentication and authorization using JWT tokens and is configured to support API versioning and documentation via Swagger",
+    image: fitnessApp,
+    source_code_link: "https://github.com/ratnabhindi/Fitness",
+    demo_link: "https://github.com/ratnabhindi/Fitness",
+  },
+  {
+    name: "Concert Booking",
+    description:
+      "The Concert Booking System leverages Clean Architecture principles to ensure a scalable, maintainable, and testable codebase. This application is ideal for event organizers and music venues looking to streamline their booking and management processes.",
+    image: concertApp,
+    source_code_link: "https://github.com/ratnabhindi/ConcertBooking",
+    demo_link: "https://github.com/ratnabhindi/ConcertBooking",
+  },
+
   {
     name: "Google Maps",
     description:
